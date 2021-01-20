@@ -26,7 +26,7 @@ Creator: KenKamau on Code Wars
 <summary>Though Process</summary>
 <br>
 
-Originally, I thought the easiest solution would be to use reduce via addition all the elements of the array. I thought this would leave us with the target integer. This works so long as the target integer is not repeated multiple times. For example:
+Originally, I thought the easiest solution would be to use reduce to add all the elements of the array. I thought this would leave us with the target integer. This works so long as the target integer is not repeated multiple times. For example:
 
 [1, -1, 2, -2, 3] => 3
 
