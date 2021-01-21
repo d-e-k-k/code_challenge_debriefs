@@ -41,6 +41,7 @@ The thought process is that you are either in the "Open" or "Senior" category. W
 <details>
 <summary>Solutions</summary>
 <br>
+	
 ### Here was my first solution:
 
 ```js
